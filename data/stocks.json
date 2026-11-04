@@ -1,32 +1,32 @@
 [
     {
         "ticker": "AAPL",
-        "price": 331.9,
-        "change_percent": 0.63,
-        "last_updated": "2026-11-04 13:21:02 UTC"
+        "price": 349.51,
+        "change_percent": 5.82,
+        "last_updated": "2026-11-04 22:56:17 UTC"
     },
     {
         "ticker": "MSFT",
-        "price": 520.99,
-        "change_percent": 0.87,
-        "last_updated": "2026-11-04 13:21:02 UTC"
+        "price": 555.8,
+        "change_percent": 7.39,
+        "last_updated": "2026-11-04 22:56:17 UTC"
     },
     {
         "ticker": "GOOGL",
-        "price": 280.03,
-        "change_percent": 0.59,
-        "last_updated": "2026-11-04 13:21:02 UTC"
+        "price": 288.93,
+        "change_percent": 3.41,
+        "last_updated": "2026-11-04 22:56:17 UTC"
     },
     {
         "ticker": "RELIANCE",
         "price": 1311.0,
         "change_percent": 0.24,
-        "last_updated": "2026-11-04 13:21:03 UTC"
+        "last_updated": "2026-11-04 22:56:18 UTC"
     },
     {
         "ticker": "TCS",
         "price": 2436.0,
         "change_percent": -2.52,
-        "last_updated": "2026-11-04 13:21:03 UTC"
+        "last_updated": "2026-11-04 22:56:18 UTC"
     }
 ]
